@@ -1,0 +1,12 @@
+This contains the common datastructures which are used in problem solving. 
+
+I have mostly reproduces the same logic given by -- Robert Sedgewick and Kevin Wayne.  while doing the coursera course 
+
+and as given on the princeton.edu website. 
+
+These datastructures are just for learning purposes and for academic purposes only.
+
+I give credit to Prof . Robert Sedgewick and Prof. Kevin Wayne for making me understand these data structure implementations
+
+
+Thanks
